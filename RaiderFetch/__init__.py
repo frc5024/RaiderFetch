@@ -48,6 +48,7 @@ class Fetcher(object):
 	def __toReadable(self, entry):
 		return {"link":entry["link"], "time":entry["updated"], "title":entry["title"]}
 
+## DEBUG ##
 # rf = Fetcher()
 # # rf.fetch()
 # # print(rf.getFeed())
