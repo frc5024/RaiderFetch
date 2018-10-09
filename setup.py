@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name='RaiderFetch',
-    version='1.0rc1',
+    version='1.0rc2',
     description='A python3 library for getting information about the team',
     url='https://github.com/frc5024/RaiderFetch',
     author='Evan Pratten',
