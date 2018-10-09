@@ -1,5 +1,5 @@
 # RaiderFetch
-[![PyPI version](https://badge.fury.io/py/RaiderFetch.svg)](https://badge.fury.io/py/RaiderFetch) [![CodeFactor](https://www.codefactor.io/repository/github/frc5024/raiderfetch/badge)](https://www.codefactor.io/repository/github/frc5024/raiderfetch)
+[![PyPI version](https://badge.fury.io/py/RaiderFetch.svg)](https://badge.fury.io/py/RaiderFetch) [![CodeFactor](https://www.codefactor.io/repository/github/frc5024/raiderfetch/badge)](https://pypi.org/project/RaiderFetch/)
 
 
 A python3 library for getting information about the team.
